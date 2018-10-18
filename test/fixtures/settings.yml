@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  brands_limit: 1
+  brands_limited: false
+  collected_limit: 1
+  collected_limited: false
+  analytics_limit: 1
+  analytics_limited: false
+  crm_limit: 1
+  crm_limited: false
+  analytics_pro: false
+  dashboards: false
+  historial_search: false
+  user: one
+
+two:
+  brands_limit: 1
+  brands_limited: false
+  collected_limit: 1
+  collected_limited: false
+  analytics_limit: 1
+  analytics_limited: false
+  crm_limit: 1
+  crm_limited: false
+  analytics_pro: false
+  dashboards: false
+  historial_search: false
+  user: two
